@@ -1,0 +1,40 @@
+[29-Jul-2025 15:44:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`stechlk_cake_business`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`cake_id`) REFERENCES `cakes` (`id`)) in /home/stechlk/public_html/admin/cakes/list.php:27
+Stack trace:
+#0 /home/stechlk/public_html/admin/cakes/list.php(27): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/stechlk/public_html/admin/cakes/list.php on line 27
+[29-Jul-2025 15:44:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`stechlk_cake_business`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`cake_id`) REFERENCES `cakes` (`id`)) in /home/stechlk/public_html/admin/cakes/list.php:27
+Stack trace:
+#0 /home/stechlk/public_html/admin/cakes/list.php(27): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/stechlk/public_html/admin/cakes/list.php on line 27
+[29-Jul-2025 15:45:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`stechlk_cake_business`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`cake_id`) REFERENCES `cakes` (`id`)) in /home/stechlk/public_html/admin/cakes/list.php:27
+Stack trace:
+#0 /home/stechlk/public_html/admin/cakes/list.php(27): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/stechlk/public_html/admin/cakes/list.php on line 27
+[29-Jul-2025 15:45:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`stechlk_cake_business`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`cake_id`) REFERENCES `cakes` (`id`)) in /home/stechlk/public_html/admin/cakes/list.php:27
+Stack trace:
+#0 /home/stechlk/public_html/admin/cakes/list.php(27): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/stechlk/public_html/admin/cakes/list.php on line 27
+[30-Jul-2025 01:35:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`stechlk_cake_business`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`cake_id`) REFERENCES `cakes` (`id`)) in /home/stechlk/public_html/admin/cakes/list.php:27
+Stack trace:
+#0 /home/stechlk/public_html/admin/cakes/list.php(27): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/stechlk/public_html/admin/cakes/list.php on line 27
+[02-Aug-2025 04:03:05 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/stechlk/public_html/admin/cakes/edit.php:77
+Stack trace:
+#0 /home/stechlk/public_html/admin/cakes/edit.php(77): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/stechlk/public_html/admin/cakes/edit.php on line 77
+[02-Aug-2025 04:03:19 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/stechlk/public_html/admin/cakes/edit.php:77
+Stack trace:
+#0 /home/stechlk/public_html/admin/cakes/edit.php(77): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/stechlk/public_html/admin/cakes/edit.php on line 77
+[02-Aug-2025 04:10:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/stechlk/public_html/admin/cakes/edit.php:77
+Stack trace:
+#0 /home/stechlk/public_html/admin/cakes/edit.php(77): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/stechlk/public_html/admin/cakes/edit.php on line 77

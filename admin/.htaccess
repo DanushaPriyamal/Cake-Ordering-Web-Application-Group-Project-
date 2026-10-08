@@ -1,0 +1,26 @@
+# Disable directory listing
+Options -Indexes
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Normalize double slashes
+    RewriteCond %{REQUEST_URI} ^(.*)//(.*)$
+    RewriteRule .* %1/%2 [R=301,L]
+
+    # Hide .php extension (optional)
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME}\.php -f
+    RewriteRule ^([a-zA-Z0-9_/+-]+)$ $1.php [L]
+
+    # Block direct /admin/ root access
+    RewriteCond %{REQUEST_URI} ^/admin/?$ [NC]
+    RewriteRule ^ / [R=302,L]
+
+    # Allow all other requests; PHP session controls access
+</IfModule>
+
+# Deny access to dotfiles
+<FilesMatch "^\.">
+    Require all denied
+</FilesMatch>

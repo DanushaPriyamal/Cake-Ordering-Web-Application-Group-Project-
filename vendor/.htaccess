@@ -1,0 +1,19 @@
+# Disable directory listing
+Options -Indexes
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Block direct browser access to folder root
+    RewriteCond %{THE_REQUEST} /vendor/?(\s|$) [NC]
+    RewriteRule ^ / [R=302,L]
+
+    # Allow access to actual files (for PHP includes)
+    RewriteCond %{REQUEST_FILENAME} -f
+    RewriteRule ^ - [L]
+</IfModule>
+
+# Deny access to dotfiles
+<FilesMatch "^\.">
+    Require all denied
+</FilesMatch>
