@@ -41,6 +41,18 @@
 
 ---
 
+## ✅ My Responsibilities
+Analyze and design the system with creating following diagrams 
+
+- **Data Flow Diagram (Level 0)**
+<img width="1061" height="468" alt="DFD0 drawio" src="https://github.com/user-attachments/assets/843d2c36-1268-479b-80fc-8f746373cceb" />
+
+- **Data Flow Diagram (Level 1)**
+<img width="1767" height="1007" alt="DFD1 drawio" src="https://github.com/user-attachments/assets/290bf952-0ce0-41fc-aee1-d510e8a365f6" />
+
+
+---
+
 ## 🎬 Video Preview
 [Click this link for the application preview]()
 
