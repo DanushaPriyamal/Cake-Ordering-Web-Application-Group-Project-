@@ -206,22 +206,83 @@ Analyze and design the system with creating following diagrams.
 - **Admin Dashboard Login Page**
 <img width="1366" height="768" alt="Admin Login Page" src="https://github.com/user-attachments/assets/bba2849a-26ab-4581-ac33-af9347ab7dbe" />
 
+<br><br>
+- **Admin Dashboard Main Page**
+<img width="1350" height="768" alt="Dashboard 1" src="https://github.com/user-attachments/assets/d4144ce4-784a-48fa-a0bc-9eeed8c4adcf" />
 
+<br><br>
+- **Admin - Manage Products Main Page**
+<img width="1348" height="768" alt="Manage Products Page" src="https://github.com/user-attachments/assets/7ac1125b-6cf7-4f46-8f88-c1f17e35e59b" />
 
+<br><br>
+- **Admin - Add A New Product Page Sample**
+<img width="1346" height="768" alt="Add new product page 1" src="https://github.com/user-attachments/assets/10d8408c-5067-4af6-87eb-d28122a7d174" />
 
+<br><br>
+- **Admin - Edit A Product Page Sample**
+<img width="1348" height="768" alt="Edit product page 1" src="https://github.com/user-attachments/assets/e3b57aed-2aaf-44d4-89ba-bf87bf8eb801" />
 
+<br><br>
+- **Admin - Orders Managing Main Page**
+<img width="1344" height="768" alt="Orders managing page" src="https://github.com/user-attachments/assets/74c53162-5f5b-4378-8422-06b82b3e07f4" />
 
+<br><br>
+- **Admin - Order Details Displaying Page Sample**
+<img width="1348" height="768" alt="Order details page 1" src="https://github.com/user-attachments/assets/acbe5359-e5b3-4dc2-939f-9a99a9765713" />
 
+<br><br>
+- **Admin - Order Invoice Printing Page Sample**
+<img width="1352" height="768" alt="Order invoice printing 1" src="https://github.com/user-attachments/assets/bf04af0c-aa27-476f-a14b-fe175e3dfbe1" />
 
+<br><br>
+- **Admin - Manage Categories Main Page**
+<img width="1350" height="768" alt="Manage categories page" src="https://github.com/user-attachments/assets/73126a0f-ab0a-45ea-8e1a-da1077b5013b" />
 
+<br><br>
+- **Admin - Add A New Category Page Sample**
+<img width="1348" height="768" alt="Add New category page 1" src="https://github.com/user-attachments/assets/3453773e-6d8d-4f99-93b5-31a4718456f5" />
 
+<br><br>
+- **Admin - Edit A Category Page Sample**
+<img width="1348" height="768" alt="Update category page 1" src="https://github.com/user-attachments/assets/9305a27d-6ef3-47a1-93d9-f6b88988110d" />
 
+<br><br>
+- **Admin - Manage Subcategories Main Page**
+<img width="1346" height="768" alt="Manage subcategories page" src="https://github.com/user-attachments/assets/c26c6e41-c7a0-4390-8a60-66f583b31aab" />
 
+<br><br>
+- **Admin - Add A New Subcategory Page Sample**
+<img width="1350" height="768" alt="Add new subcategory page" src="https://github.com/user-attachments/assets/0ba6dd44-992a-46cb-b814-7b7ec76a46c9" />
 
+<br><br>
+- **Admin - Edit A Subcategory Page Sample**
+<img width="1350" height="768" alt="Edit subcategory page" src="https://github.com/user-attachments/assets/5c364c84-064c-4436-9a22-940629e343ca" />
 
+<br><br>
+- **Admin - Manage Brands Main Page**
+<img width="1350" height="768" alt="Manage brands page" src="https://github.com/user-attachments/assets/1bdd2663-0d6e-454d-96c3-5c6ce7f010bf" />
 
+<br><br>
+- **Admin - Add A New Brand Page Sample**
+<img width="1348" height="768" alt="Add new brands page" src="https://github.com/user-attachments/assets/8bcabf6e-fb4f-4d35-8a95-f0ada7222efa" />
 
+<br><br>
+- **Admin - Edit A Brand Page Sample**
+<img width="1348" height="768" alt="Update brands page" src="https://github.com/user-attachments/assets/674769be-9c64-4b9b-a10b-40eb93b921f0" />
 
+<br><br>
+- **Admin - Manage Customers Main Page**
+<img width="1350" height="768" alt="Manage customers page" src="https://github.com/user-attachments/assets/7c38df0d-7f2a-4e41-bc17-00eab8904ca6" />
 
+<br><br>
+- **Admin - Add A New Customer Page Sample**
+<img width="1348" height="768" alt="Add new customer page" src="https://github.com/user-attachments/assets/faac268f-d284-4d5d-b26d-ff23490d6d3d" />
 
+<br><br>
+- **Admin - View Customer Details Page Sample**
+<img width="1352" height="768" alt="Customer details page" src="https://github.com/user-attachments/assets/51770db2-53de-436b-9ee2-a2380a58c460" />
+
+<br><br>
+- **Admin - Edit A Customer Details Page Sample**
+<img width="1352" height="768" alt="Edit customer details page" src="https://github.com/user-attachments/assets/54ae7c88-7c8c-4f78-8fa0-52eb2b3e2e51" />
 
