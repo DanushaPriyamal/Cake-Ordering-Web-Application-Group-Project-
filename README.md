@@ -135,8 +135,95 @@ Analyze and design the system with creating following diagrams.
 <br><br>
 - **State Transition Diagram for Admin**
 <img width="451" height="736" alt="State transition diagram for admin drawio" src="https://github.com/user-attachments/assets/c0f06db6-05fa-493f-8710-78d9a56040ad" />
+
 ---
 
-## 🎬 Video Preview
-[Click this link for the application preview]()
+## 📷 Image Previews
+
+<br><br>
+- **Home Page 1**
+<img width="1348" height="768" alt="Home Page 1" src="https://github.com/user-attachments/assets/caf90fb9-64bc-49c8-8743-dd250aa39613" />
+
+<br><br>
+- **Home Page 2**
+<img width="1350" height="768" alt="Home Page 2" src="https://github.com/user-attachments/assets/30ce15b8-de68-4899-bb11-dba0eb7b9283" />
+
+<br><br>
+- **Home Page 3**
+<img width="1348" height="768" alt="Home Page 3" src="https://github.com/user-attachments/assets/1a05a10b-b714-426a-b0c1-4c429887e794" />
+
+<br><br>
+- **Terms and Conditions Page Sample**
+<img width="1346" height="768" alt="Terms and Conditions Page 1" src="https://github.com/user-attachments/assets/da9617b5-8577-44c7-ab81-2467bfe2c988" />
+
+<br><br>
+- **Registration Page Sample**
+<img width="1346" height="768" alt="Registration Page 1" src="https://github.com/user-attachments/assets/38084f72-9b3f-43bc-9691-fab57b2ababd" />
+
+<br><br>
+- **Login Page**
+<img width="1348" height="768" alt="Sign In Page" src="https://github.com/user-attachments/assets/8148bf01-b44a-42c8-8ac1-c987d73bee62" />
+
+<br><br>
+- **Password Reset Page**
+<img width="1350" height="768" alt="Password Reset Page" src="https://github.com/user-attachments/assets/a71a7a83-604b-4b60-be2c-a6413569c5e6" />
+
+<br><br>
+- **Profile Page Sample**
+<img width="1348" height="768" alt="Profile Page 1" src="https://github.com/user-attachments/assets/08a94b8e-90c9-4c59-a50a-1baef5e4ab94" />
+
+<br><br>
+- **Products Page Sample**
+<img width="1348" height="768" alt="Products Page 1" src="https://github.com/user-attachments/assets/cbc20d54-6f12-481e-a9c8-22a69c9d83aa" />
+
+<br><br>
+- **Product Details Page Sample**
+<img width="1352" height="768" alt="Product Details Page 1" src="https://github.com/user-attachments/assets/c6a4b238-1955-42ea-b24c-657ee69389cd" />
+
+<br><br>
+- **Cart Page Before Adding Products**
+<img width="1348" height="768" alt="Cart Page Before Add Products" src="https://github.com/user-attachments/assets/9c67ee3c-9293-4a20-81ed-bd1f2b344f63" />
+
+<br><br>
+- **Cart Page After Adding Products**
+<img width="1346" height="768" alt="Cart Page After Adding Products" src="https://github.com/user-attachments/assets/e463dcf0-25a7-4e5e-baef-8a11edb69838" />
+
+<br><br>
+- **Checkout Page Sample**
+<img width="1348" height="768" alt="Checkout Page 1" src="https://github.com/user-attachments/assets/c847646b-e5b1-44e9-bfcc-270f28d22249" />
+
+<br><br>
+- **Order Submit Confirmation Page Sample**
+<img width="1348" height="768" alt="Order Confirmation Page 1" src="https://github.com/user-attachments/assets/b40d9dbf-4f77-4030-8396-9a0dd5cc81ff" />
+
+<br><br>
+- **About Page Sample**
+<img width="1348" height="768" alt="About Page 2" src="https://github.com/user-attachments/assets/d7e79b19-f42d-4b74-ae32-0b94999fd752" />
+
+<br><br>
+- **Contact Page Sample**
+<img width="1348" height="768" alt="Contact Page 1" src="https://github.com/user-attachments/assets/5e1b50d8-95ed-437a-8c0e-46bad817fc79" />
+
+<br><br>
+- **Admin Dashboard Login Page**
+<img width="1366" height="768" alt="Admin Login Page" src="https://github.com/user-attachments/assets/bba2849a-26ab-4581-ac33-af9347ab7dbe" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
